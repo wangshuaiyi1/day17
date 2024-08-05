@@ -1,4 +1,4 @@
-module framework
+module github.com/wangshuaiyi1/day17
 
 go 1.22
 
